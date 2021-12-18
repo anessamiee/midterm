@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\..\\Projects\\online-shop"
+	},
+	{
+		"path": "..\\..\\Documents\\Web Programming\\anessamiee"
+	},
+	{
+		"path": "..\\..\\Documents\\Web Programming\\midterm-project"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "anessamiee"
+  }
+}

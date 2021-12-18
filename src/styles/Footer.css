@@ -1,0 +1,115 @@
+.footer {
+  position: absolute;
+  width: 100%;
+}
+.footer-container {
+  margin: 0 34px;
+  padding: 50px 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.footer .social {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.footer .social a {
+  color: white;
+  background-color: #2c2c2c;
+  text-decoration: none;
+  text-align: center;
+  transition: 0.4s;
+  padding: 12px;
+  margin: 10px;
+  border-radius: 50%;
+}
+.footer .social a:hover {
+  background-color: #414141;
+}
+.footer .social ul {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.footer li {
+  list-style-type: none;
+}
+.footer hr {
+  border-color: rgb(165, 165, 165);
+  opacity: 0.2;
+  width: 15%;
+  margin: 20px 0;
+  padding: 0;
+}
+.first-text-block h2 {
+  font-family: Source Sans Pro;
+  font-size: 19px;
+  font-weight: 600;
+  text-align: center;
+  color: #777777;
+  margin-bottom: 10px;
+}
+.first-text-block p {
+  color: rgb(178, 176, 176);
+  margin-top: 10px;
+  font-size: 16px;
+}
+.email {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px 0;
+}
+.email #email {
+  font-size: 17px;
+  padding: 13px 20px;
+  width: 100%;
+  border-color: black;
+  margin-right: 5px;
+}
+.email #submit {
+  font-size: 17px;
+  padding: 13px;
+  border-color: black;
+  background-color: white;
+  width: 25%;
+  transition: 0.4s;
+}
+.email #submit:hover {
+  background-color: grey;
+}
+.second-text-block ul {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  color: #2c2c2c;
+  padding: 0;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.second-text-block li {
+  color: rgb(178, 176, 176);
+}
+.second-text-block a {
+  padding: 5px;
+  color: rgb(178, 176, 176);
+  text-decoration: none;
+  text-align: center;
+}
+
+.second-text-block a:hover {
+  color: #2c2c2c;
+  text-decoration: underline;
+}
+.third-text-block a {
+  font-size: 12px;
+  color: rgb(178, 176, 176);
+  text-decoration: none;
+  text-align: center;
+}
+.third-text-block a:hover {
+  color: #2c2c2c;
+  text-decoration: underline;
+}
